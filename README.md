@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi there!
+
+I am a first-year undergrad at University of Illinois Chicago. I am currently exploring the world of CS to figure out what area interests me the most.
 
 <!--
+This is commented out!
 **alliyah-fm/alliyah-fm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
