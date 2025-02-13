@@ -1,6 +1,9 @@
 ## Hi there!
 
-I am a first-year undergrad at University of Illinois Chicago. I am currently exploring the world of CS to figure out what area interests me the most.
+I am a first-year undergrad at University of Illinois Chicago. I have 3+ years of computer science education. Actively exploring the world of CS to figure out what areas interests me the most.
+NSF S-STEM Scholar. SparkHacks 2025 Winner (Crowd Favorite).
+
+Languages: C++, C, Python, JavaScript
 
 <!--
 This is commented out!
